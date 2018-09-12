@@ -12,4 +12,4 @@ Some information about Ting!
 
 ### Contact me
 
-[email@domain.com](mailto:tingpan-18dsba@outlook.com)
+[tingpan-18dsba@outlook.com](mailto:tingpan-18dsba@outlook.com)
