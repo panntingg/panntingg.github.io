@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about Ting!
+Some information about Ting ~
 
 ### More Information
 
